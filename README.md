@@ -1,4 +1,5 @@
-## Hi there 👋
+<img alt="Cover" src="./cover.jpg">
+
 
 <!--
 **mariabalaguerm/mariabalaguerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
